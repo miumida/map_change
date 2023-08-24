@@ -22,11 +22,11 @@ Default Map to NAVER Map. Map Change Service for Home Assistant #HA
 - 'https://github.com/miumida/map_change' 주소 입력, Category에 'integration' 선택 후, 저장
 - HACS > Integretions 메뉴 선택 후, map_change 검색하여 설치
 
-<br>
 
 ## Usage
 ### Custom Integration
 - 구성 > 통합구성요소 > 통합구성요소 추가하기 > Map Change Service 선택 > 확인.
+
 
 
 ## Apply
