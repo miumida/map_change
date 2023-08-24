@@ -1,3 +1,0 @@
-map_change:
-  # Description of the service
-  description: HA 지도를 네이버지도로 변경합니다.
