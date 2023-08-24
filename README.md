@@ -9,7 +9,7 @@ Default Map to NAVER Map. Map Change Service for Home Assistant #HA
 ## Version history
 | Version | Date        | 내용              |
 | :-----: | :---------: | ----------------------- |
-| v1.0    | 2020.01.15  | First version  |
+| v1.0.0    | 2023.08.25  | First version  |
 
 
 ## Installation
