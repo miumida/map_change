@@ -1,0 +1,10 @@
+{
+  "domain": "map_change",
+  "name": "Map Change Service",
+  "documentation": "https://github.com/miumida/map_change",
+  "dependencies": [],
+  "codeowners": ["@miumida"],
+  "requirements": [],
+  "config_flow": true,
+  "version": "1.0.0"
+}
