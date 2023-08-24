@@ -35,7 +35,7 @@ Default Map to NAVER Map. Map Change Service for Home Assistant #HA
 
 
 ## 참고사이트
-[1] 네이버 HomeAssistant 카페 | 똥찌린빤쮸님의 HA 지도 변경 방법 (빌드 없이 적용)(<[http://bus.go.kr/searchResult6.jsp](https://cafe.naver.com/koreassistant/9431)>)<br>
+[1] 네이버 HomeAssistant 카페 | 똥찌린빤쮸님의 HA 지도 변경 방법 (빌드 없이 적용)(<https://cafe.naver.com/koreassistant/9431>)<br>
 
 [version-shield]: https://img.shields.io/badge/version-v1.0.0-orange.svg
 [hakc-shield]: https://img.shields.io/badge/HAKC-Enjoy-blue.svg
