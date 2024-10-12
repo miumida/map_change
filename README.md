@@ -2,7 +2,7 @@
 
 ![HAKC)][hakc-shield]
 ![HACS][hacs-shield]
-![Version v1.0.0][version-shield]
+![Version v1.0.1][version-shield]
 
 Default Map to NAVER Map. Map Change Service for Home Assistant #HA
 
@@ -10,6 +10,7 @@ Default Map to NAVER Map. Map Change Service for Home Assistant #HA
 | Version | Date        | 내용              |
 | :-----: | :---------: | ----------------------- |
 | v1.0.0    | 2023.08.25  | First version  |
+| v1.0.1    | 2024.10.13  | url 변경  |
 
 
 ## Installation
@@ -38,6 +39,6 @@ Default Map to NAVER Map. Map Change Service for Home Assistant #HA
 [1] 네이버 HomeAssistant 카페 | 똥찌린빤쮸님의 HA 지도 변경 방법 (빌드 없이 적용)(<https://cafe.naver.com/koreassistant/9431>)<br>
 [2] JayChun님의 github | HA_Related (<https://github.com/JayChun/HA_Related>)<br>
 
-[version-shield]: https://img.shields.io/badge/version-v1.0.0-orange.svg
+[version-shield]: https://img.shields.io/badge/version-v1.0.1-orange.svg
 [hakc-shield]: https://img.shields.io/badge/HAKC-Enjoy-blue.svg
 [hacs-shield]: https://img.shields.io/badge/HACS-Custom-red.svg
