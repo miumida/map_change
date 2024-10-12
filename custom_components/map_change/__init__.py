@@ -54,7 +54,7 @@ async def async_setup_entry(hass, config_entry):
 
     async def map(service):
         _LOGGER.error(f'[{DOMAIN}] Map Change Service call!')
-        cmd = 'bash -c "$(wget -O - \'https://raw.githubusercontent.com/miumida/HA_Related/main/changing_map.sh\')"'
+        cmd = 'bash -c "$(wget -O - \'https://raw.githubusercontent.com/miumida/HA_Related/main/changing_map_20241013.sh\')"'
 
         _LOGGER.error(subp_run(cmd).stdout)
 
